@@ -1,0 +1,81 @@
+Full Name — Sunther S
+
+Professional Title/Tagline — Entry-Level Software Developer
+
+Short Bio / About Me — Aspiring software developer with knowledge in Java, Python, and AI-based application development. Built projects like ISL recognition to solve real-world problems. Eager to learn, grow, and contribute in a professional IT environment.
+
+Location — City(Chennai)/State(Tamil Nadu)
+
+Profile Photo — "D:\Pratice\projects\Sunther portfolio\Source"
+
+Contact & Social Links
+WhatsApp(9677359651)
+x(https://x.com/Sunther_)
+Instagram(https://www.instagram.com/s.somasunthereaswaran?igsh=MWMwZWJ4YmVjaGE3Yw==)
+facebook(https://www.facebook.com/share/1NHpyWo41H/)
+
+Email Address(ssomasunther@gmail.com)
+
+Phone Number (9677359651)
+
+LinkedIn URL (www.linkedin.com/in/sunther)
+GitHub URL (https://github.com/ssoms001)
+
+Education
+MCA — Easwari Engineering College, year of completion(2026)
+Undergraduate degree — Degree(BCA), college(Vels University), year(2021-2024)
+
+Skills
+Technical Skills — (Python, Java, SQL, git & github, HTML, CSS, JS, VS code, Antigravity, Canva, Adoube photoshop, Blender, chatgpt)
+
+Soft Skills (English, Tamil)
+
+Projects
+project 1
+name(Sign Bridge(AI-Based-Indian-Sign-Language-ISL-Recognition))
+description(AI-based Indian Sign Language (ISL) recognition system using MediaPipe and CNN. Detects hand landmarks via webcam and converts gestures into text in real time. Includes Speech-to-Text and Text-to-Speech for effective communication.)
+tech stack(Browser (Camera) → Base64 frames → Flask API → MediaPipe (hand landmarks) → CNN Model (classification) → NLP Processor (sentence building) → TTS Engine (speech output) → Browser (audio + text display))
+live link(https://huggingface.co/spaces/Sunther/AI-Based-Indian-Sign-Language-ISL-Recognition)
+GitHub link(https://github.com/ssoms001/AI-Based-Indian-Sign-Language-ISL-Recognition)
+
+project 2
+Name: Kidso — Kids Learning Platform
+Title: Kidso – An Interactive Learning Platform for Kids
+Description: Kidso is a fun, colorful, and interactive web-based learning platform designed for children. It features 9 learning categories including Alphabet, Tamil Letters, Science, Music, Art, Life Skills, and more — with animated quizzes, a drawing canvas, progress tracking with badges, AI-powered recommendations, and PIN-protected parental controls.
+Tech Stack: HTML5, CSS3, JavaScript (Vanilla)
+Live Link: https://ssoms001.github.io/kidso/
+GitHub Link: https://github.com/ssoms001/kidso
+
+project 3
+Name: MR UPVC – Premium Doors & Windows
+Description: A sleek and professional showcase for a UPVC production plant in Chennai. It features high-quality windows and doors with elegant designs, lasting durability, and a focus on premium craftsmanship.
+Tech Stack: HTML5, Vanilla CSS, and JavaScript.
+Live Link: https://ssoms001.github.io/mr-upvc-plant-website/
+GitHub Link: https://github.com/ssoms001/mr-upvc-plant-website
+
+project 4
+Name/Title: Evara — Modern Responsive E-Commerce Platform
+Description: A fully responsive shopping experience with a clean, professional UI. It features real-time search filtering, a live "Deals of the Day" countdown timer, and seamless multi-page navigation optimized for all devices.
+Tech Stack: HTML5, CSS3 (Vanilla), JavaScript (ES6+), Swiper.js, and Flaticon.
+Live Link: https://ssoms001.github.io/responsive-ecommerce-evara/
+GitHub Link: https://github.com/ssoms001/responsive-ecommerce-evara
+
+Experience
+🔹 Internships / Work Experience (Additional)
+Freelance Full Stack Web Developer with hands-on experience in developing a business website for a UPVC windows and doors manufacturing company (MR UPVC Plant). Worked on end-to-end development including design, frontend development using HTML, CSS, JavaScript, and ensuring responsive and user-friendly interface.
+
+Additionally, completed academic projects such as a Sign Language Translator (Sign Bridge) and an Online Kids Learning Platform, gaining practical exposure to real-world problem solving and application development.
+
+🔹 Certifications
+Completed Developer and Technology Job Simulation by Accenture (via Forage)
+Completed Web Designing Industrial Training at Inspire Softech Solutions
+Participated in Immersive Technology Workshop by Monolith Research and Training Labs
+Completed Adobe Photoshop Course at Rudra Institute
+Completed Java Programming Course at AACE Institute
+
+Color preference or style? 
+use both dark theme & light theme,use scroll-triggered animations
+and i like some portfolios i will share links here(https://www.abdulsamad.tech/projects , https://www.tajmirul.site/)and more on
+
+Do you have a resume/CV file you'd like to add as a downloadable link?(yes, make it as downloadable)
+now only i am preparing my resume so u insert some blank resume i will update it later
